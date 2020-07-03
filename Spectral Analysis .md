@@ -1,7 +1,7 @@
 #  [This is one of the best tutorial i have ever encountered on internet on SPECTRAL ANALYSIS](https://www.youtube.com/watch?v=fYtVHhk3xJ0&list=PLn0OLiymPak2jxGCbWrcgmXUtt9Lbjj_A)
 ## Things you will learn :-
 * basics of complex sine waves  (csw ) , use of dot products in fourier analysis 
-* niquest theorem of sampling rate 
+* nyquist theorem of sampling rate 
 * DFT 
 
 
