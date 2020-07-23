@@ -1,5 +1,5 @@
 # From 0 to HERO 
-## This book covers basics of how really ,
+## This book covers basics of --
 * A pressure wave is converted to a digital signal or just arrays of integers 
 * SAMPLE RATE 
 * BIT DEPTH 
